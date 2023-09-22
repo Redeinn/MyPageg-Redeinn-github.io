@@ -1,0 +1,132 @@
+body{
+    background-color:rgb(24, 23, 23);
+    margin-top: 5;
+    font-family: cursive;
+   
+}
+
+header{
+
+    margin-left: 10px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 500px;
+    
+
+
+}
+
+.log img{
+    width: 70px;
+    height: 70px;
+    
+}
+
+button{
+    padding: 15px;
+    width: 150px;
+    font-weight: 700;
+    font-size: 15px;
+    border: 3px solid rgb(rgb(197, 145, 66), rgb(40, 95, 40), rgb(61, 61, 99));
+    border-radius: 20px;
+    background-color: rgb(39, 38, 38);
+    cursor: pointer;
+    transition: 0.2s;
+    margin-top: 5px;
+}
+
+
+button:hover{
+    background-color: rgb(85, 160, 135);
+}
+
+
+
+.navegadror{
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
+.clase1{
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+
+.clase1:hover{
+    color:rgb(70, 129, 110);
+    border-bottom: 2px solid white ;
+   
+
+
+}
+
+.textoo{
+    color: white;
+}
+
+
+
+
+
+main{
+    margin-top: 10px;
+    display: flex;
+    height: 60vh;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+
+h2{
+    margin-top: 40px;
+    font-size: 26px;
+
+}
+
+h3{
+    margin-top: 10px;
+    font-size: 26px;
+}
+
+.gato{
+
+    box-shadow: 0px 0px 0px rgb(rgb(201, 168, 168), rgb(132, 192, 132), rgb(76, 76, 141));
+    width: 300px;
+    height: 300px;
+    border-radius: 30%
+   
+
+}
+
+.ni{
+    width: 50px;
+    height: 50px; 
+    display: flex;
+    margin-top: 10px;
+    margin-left: 12px;
+    transition: 0.2s;
+
+}
+
+.ni{
+    background-color: white;
+    padding: 0.5px;
+    border-radius: 30px;
+}
+
+.ni:hover{
+    background-color: gray;
+}
+
+footer{
+    height: 30px;
+    margin-top: 10px;
+}
+
+
+
